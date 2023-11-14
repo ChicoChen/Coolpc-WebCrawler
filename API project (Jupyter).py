@@ -41,7 +41,7 @@ tags = soup.find_all('option')
 goods_shelf = {}
 shelf_name = []
 #key for google search API
-engine_ID = '8494bc4843c0ec67a'
+engine_ID = '' #TODO: add search engine_ID
 API_key = '' #TODO: add search API_key
 
 shelf_name_count = -1
